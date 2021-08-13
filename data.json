@@ -1,0 +1,17 @@
+[{
+    "name": "Ricardo Schroeder",
+    "class": "man",
+    "marriages": [{
+      "spouse": {
+        "name": "Anelise Machado de Almeida Schroeder",
+        "class": "woman",
+        "extra": {
+          "nickname": "Ane"
+        }
+      },
+      "children": [{
+        "name": "Isabella Schroeder",
+        "class": "woman"
+      }]
+    }]
+  }]
