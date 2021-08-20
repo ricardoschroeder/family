@@ -1,17 +1,55 @@
-[{
-    "name": "Ricardo Schroeder",
-    "class": "man",
+[
+  {
+    "name": "Onário Schroeder",
+    "class":"man",
     "marriages": [{
       "spouse": {
-        "name": "Anelise Machado de Almeida Schroeder",
-        "class": "woman",
-        "extra": {
-          "nickname": "Ane"
-        }
+        "name": "Rovena Schroeder",
+        "class":"woman"
       },
       "children": [{
-        "name": "Isabella Schroeder",
-        "class": "woman"
-      }]
+          "name": "Paulo Ricardo Schroeder",
+          "class": "man",
+          "marriages": [{
+            "spouse": {
+              "name": "Maristela Beckenkamp Schroeder",
+              "class":"woman"
+            },
+            "children": [{
+              "name": "Ricardo Schroeder",
+              "class": "man",
+              "marriages": [{
+                "spouse": {
+                  "name": "Anelise Machado de Almeida Schroeder",
+                  "class": "woman",
+                  "extra": {
+                    "nickname": "Ane"
+                  }
+                },
+                "children": [{
+                  "name": "Isabella Schroeder",
+                  "class": "woman"
+                }]
+              }]
+            },
+            {
+              "name": "Fernando Schroeder",
+              "class":"man",
+              "marriages": [{
+                "spouse": {
+                  "name": "Aline Bitencourt Schroeder",
+                  "class": "woman"
+                }
+              }]
+            },
+            {
+              "name": "Gustavo Schroeder",
+              "class":"man"
+            }
+          ]
+          }]
+        }
+      ]
     }]
-  }]
+  }
+]
