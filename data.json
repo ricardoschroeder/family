@@ -1,52 +1,87 @@
 [
   {
-    "name": "Onário Schroeder",
-    "class":"man",
+    "name": "Wilhelm Schröder",
+    "class": "man",
     "marriages": [{
       "spouse": {
-        "name": "Rovena Schroeder",
-        "class":"woman"
+        "name": "Ulrike Hintz",
+        "class": "woman"
       },
-      "children": [{
-          "name": "Paulo Ricardo Schroeder",
+      "children": [
+        {
+          "name": "Carl Ferdinand Wilhelm Schröder",
           "class": "man",
           "marriages": [{
             "spouse": {
-              "name": "Maristela Beckenkamp Schroeder",
-              "class":"woman"
+              "name": "Mathilde Ginow",
+              "class": "woman"
             },
-            "children": [{
-              "name": "Ricardo Schroeder",
-              "class": "man",
-              "marriages": [{
-                "spouse": {
-                  "name": "Anelise Machado de Almeida Schroeder",
-                  "class": "woman",
-                  "extra": {
-                    "nickname": "Ane"
-                  }
-                },
-                "children": [{
-                  "name": "Isabella Schroeder",
-                  "class": "woman"
+            "children": [
+              {
+                "name": "Leopoldo Schroeder",
+                "class":"man",
+                "marriages": [{
+                  "spouse": {
+                    "name": "Erna Voese",
+                    "class":"woman"
+                  },
+                  "children": [{
+                      "name": "Onário Schroeder",
+                      "class":"man",
+                      "marriages": [{
+                        "spouse": {
+                          "name": "Rovena Schroeder",
+                          "class":"woman"
+                        },
+                        "children": [{
+                            "name": "Paulo Ricardo Schroeder",
+                            "class": "man",
+                            "marriages": [{
+                              "spouse": {
+                                "name": "Maristela Beckenkamp Schroeder",
+                                "class":"woman"
+                              },
+                              "children": [{
+                                "name": "Ricardo Schroeder",
+                                "class": "man",
+                                "marriages": [{
+                                  "spouse": {
+                                    "name": "Anelise Machado de Almeida Schroeder",
+                                    "class": "woman",
+                                    "extra": {
+                                      "nickname": "Ane"
+                                    }
+                                  },
+                                  "children": [{
+                                    "name": "Isabella Schroeder",
+                                    "class": "woman"
+                                  }]
+                                }]
+                              },
+                              {
+                                "name": "Fernando Schroeder",
+                                "class":"man",
+                                "marriages": [{
+                                  "spouse": {
+                                    "name": "Aline Bitencourt Schroeder",
+                                    "class": "woman"
+                                  }
+                                }]
+                              },
+                              {
+                                "name": "Gustavo Schroeder",
+                                "class":"man"
+                              }
+                            ]
+                            }]
+                          }
+                        ]
+                      }]
+                    }
+                  ]
                 }]
-              }]
-            },
-            {
-              "name": "Fernando Schroeder",
-              "class":"man",
-              "marriages": [{
-                "spouse": {
-                  "name": "Aline Bitencourt Schroeder",
-                  "class": "woman"
-                }
-              }]
-            },
-            {
-              "name": "Gustavo Schroeder",
-              "class":"man"
-            }
-          ]
+              }
+            ]
           }]
         }
       ]
